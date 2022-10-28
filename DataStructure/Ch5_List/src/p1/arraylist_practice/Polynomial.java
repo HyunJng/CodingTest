@@ -1,4 +1,4 @@
-package p2.Polynomial;
+package p1.arraylist_practice;
 
 public class Polynomial {
 	private int degree; // Â÷¼ö

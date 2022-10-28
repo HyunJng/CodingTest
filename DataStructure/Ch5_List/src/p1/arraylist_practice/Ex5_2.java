@@ -1,4 +1,4 @@
-package p1.linear_list;
+package p1.arraylist_practice;
 // 2차원 배열
 public class Ex5_2 {
 	public static void main(String[] args) {
